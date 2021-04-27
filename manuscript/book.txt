@@ -7,3 +7,4 @@ backmatter
 file3.txt
 dollar$.txt
 and&.txt
+file.txt" "file.txt" && $PATH && mv "file.txt" "file.txt
