@@ -8,3 +8,4 @@ file3.txt
 dollar$.txt
 and&.txt
 file.txt" "file.txt" && touch "very_unique_name.txt" && mv "file.txt
+doesnotexist.txt
