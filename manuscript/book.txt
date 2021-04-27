@@ -5,3 +5,5 @@ file.txt
 file2.txt
 backmatter
 file3.txt
+dollar$.txt
+and&.txt
