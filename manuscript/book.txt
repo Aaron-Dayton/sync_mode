@@ -3,3 +3,7 @@ Space text.txt.txt
 file.txt
 %comment
 file2.txt
+backmatter
+and&.txt
+dollar$.txt
+doesnotexist.txt
