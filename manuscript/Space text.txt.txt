@@ -1,3 +1,13 @@
 This is Space text
 
 ![](code.rb)
+
+![](apple.png)
+
+![](earth.gif)
+
+![](frog.svg)
+
+![](audio.mp3)
+
+![](video.mp4)
