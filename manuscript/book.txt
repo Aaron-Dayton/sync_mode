@@ -1,1 +1,11 @@
+Space text.txt.txt
+#comment
 file.txt
+%comment
+file2.txt
+backmatter
+file3.txt
+and&.txt
+dollar$.txt
+doesnotexist.txt
+folder/file.txt
